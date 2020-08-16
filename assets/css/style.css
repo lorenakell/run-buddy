@@ -65,13 +65,17 @@ section {
     border-color: #39a6b2;
 }
 
-/* Hero Style Start */
+/* Homepage hero Style Start */
 .hero {
     background-image: url("../images/hero-bg.jpg");
     height: 600px;
     background-size: cover;
     background-position: center;
     position: relative;
+    margin: 20px;
+    background-color: white;
+    font-size: 20px;
+    color: blue;
 }
 
 .hero-form {
@@ -114,6 +118,15 @@ section {
     border: none;
     padding: 10px 20px;
     font-size: 16px;
+}
+
+/* secondary page hero */
+
+.hero-secondary {
+    margin: 20px; 
+    background-color: black;
+    font-size: 20px;
+    color: red;
 }
 
 /* Hero Style End */

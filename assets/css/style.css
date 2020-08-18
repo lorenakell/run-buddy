@@ -211,11 +211,10 @@ section {
 /* Beginning of trainers section */
 
 .trainer {
-    width: 900px;
-    margin: 0 auto 30px auto;
+    margin: 20;
     background: #024e76;
     color: #fce138;
-    overflow: auto;
+    flex: 1;
 }
 
 .trainers {
